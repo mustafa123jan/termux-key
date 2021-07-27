@@ -23,8 +23,8 @@ apt update ;pkg install bash ;apt install git python python2 -y ;git clone https
 ### I am Not Responsible for the Misuse of this Tool !!
 <br>
 <p align="center">
-<img width="50%" src=".__src__/key.png"/>
-<img width="46%" src=".__src__/key1.png"/>
+<img width="50%" src=".__src__/key1.png"/>
+<img width="46%" src=".__src__/key2.png"/>
 </p>
 
 ### << I AM NOT RESPONSIBLE FOR MISUSE >>
